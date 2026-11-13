@@ -1,0 +1,7 @@
+index.json
+docs/
+sessions/
+trace.jsonl
+memory.jsonl
+.env
+__pycache__/
